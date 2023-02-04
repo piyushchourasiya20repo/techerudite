@@ -1,0 +1,28 @@
+{
+  "server": {
+    "port": "3000",
+    "host_url": "localhost:3000",
+    "host": "localhost"
+  },
+  "token": {
+    "JWT_SECRET_KEY": "hdfjkdhfjshgfjhgg"
+  },
+  "dataBase":{
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "demo3"
+  },
+  "mail" :{
+    "host": "mail.globussoft.in",
+    "port": 465,
+    "secure": true,
+    "auth": {
+        "user": "piyushchourasiya@globussoft.in",
+        "pass": "!61Cd7Efj"
+    }
+  },
+  "mailOptions":{
+    "from" :"piyushchourasiya20@gmail.com"
+  }
+}

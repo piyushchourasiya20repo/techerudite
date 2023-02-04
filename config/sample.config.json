@@ -1,0 +1,28 @@
+{
+    "server": {
+      "port": "3000",
+      "host_url": "localhost:3000",
+      "host": "localhost"
+    },
+    "token": {
+      "JWT_SECRET_KEY": "abched"
+    },
+    "dataBase":{
+      "host": "localhost",
+      "user": "root",
+      "password": "root",
+      "database": "demo"
+    },
+    "mail" :{
+      "host": "mail.xyz.in",
+      "port": 465,
+      "secure": true,
+      "auth": {
+          "user": "piyushchourasiya@xyz.in",
+          "pass": "piyuh@123"
+      }
+    },
+    "mailOptions":{
+      "from" :"support@gmail.com"
+    }
+  }
