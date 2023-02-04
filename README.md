@@ -4,7 +4,7 @@
 
 Clone the repository
 
-    git clone
+    git clone https://github.com/piyushchourasiya20repo/techerudite.git
 
 Install Node js the dependencies using npm
 
@@ -49,4 +49,4 @@ http://localhost:3000/doc/
 -   _isActive: int type field with a maximum length of 1 characters. 0 is for unactive & 1 is for active.
 -   _token: It is an text type.
 -   _lastLogin: It is an text type.
--   createdAt:  It is an text type.
+-   _createdAt:  It is an text type.
